@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite For JCREW Sign In Test" duration-ms="45582" started-at="2017-07-17T01:55:01Z" finished-at="2017-07-17T01:55:46Z">
+    <groups>
+    </groups>
+    <test name="Sign In Test" duration-ms="45582" started-at="2017-07-17T01:55:01Z" finished-at="2017-07-17T01:55:46Z">
+      <class name="Test.SignInTest">
+        <test-method status="PASS" signature="TestSignIn()[pri:0, instance:Test.SignInTest@1807f5a7]" name="TestSignIn" duration-ms="29624" started-at="2017-07-16T21:55:01Z" finished-at="2017-07-16T21:55:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestSignIn -->
+      </class> <!-- Test.SignInTest -->
+      <class name="Test.SubmitClick">
+        <test-method status="PASS" signature="toClickSubmit()[pri:0, instance:Test.SubmitClick@4dc27487]" name="toClickSubmit" duration-ms="15896" started-at="2017-07-16T21:55:30Z" finished-at="2017-07-16T21:55:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- toClickSubmit -->
+      </class> <!-- Test.SubmitClick -->
+    </test> <!-- Sign In Test -->
+  </suite> <!-- Suite For JCREW Sign In Test -->
+</testng-results>
